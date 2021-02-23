@@ -35,3 +35,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<!DOCTYPE html>
+<html>
+<title>homepage</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="trashlord.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+
+<!-- Icon Bar (Sidebar - hidden on small screens) -->
+<nav>
+  <!-- Avatar image in top left corner -->
+ <ul>
+  <li><a class="active" href="homepage.html">Home</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="artwork.html">Artwork</a></li>
+  <li><a href="blog.html">Blog</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+</html>
